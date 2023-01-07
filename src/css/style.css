@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+}
+
+.header {
+    background-image: url('../img/banner/banner1.png');
+    width: 1600px;
+    height: 808px;
+    margin: 0 auto;
+}
+
+.banner {
+    margin: 0 230px;
+    padding: 245px 0;
+}
+
+.banner-title {
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    color: #151414;
+    text-align: right;
+    width: 525px;
+    height: 228px;
+    margin: 0 620px;
+    margin-bottom: 24px;
+}
+
+.banner-info {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #444343;
+    width: 494px;
+    height: 78px;
+    margin: 0 650px;
+    margin-bottom: 32px;
+}
+
+.btn-primary {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    width: 160px;
+    height: 64px;
+    background: #F15B22;
+    border-radius: 5px;
+    border: none;
+    margin: 0 980px;
+}
+
+.main {
+    width: 1600px;
+    height: 808px;
+    margin: 0 auto;
+}
+
+/* Unsucces-Section */
+
+.unsuccess {
+    display: flex;
+    align-items: center;
+}
+
+.unsuccess-person {
+    /* background: rgba(241, 91, 34, 0.2);
+    border-radius: 360px; */
+    width: 565px;
+    height: 720px;
+    margin: 150px 0 0 200px;
+}
+
+.unsuccess-info {
+    padding-top: 250px;
+    margin: 100px;
+}
+
+.unsuccess-title {
+    width: 285px;
+    height: 95px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+
+.unsuccess-description {
+    width: 416px;
+    height: 104px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 16px;
+}
+
+.check-list i {
+    color: #16D887;
+}
+
+.check-list i span {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    padding: 5px;
+}
+
+/* End Unsucces-Section */
+
+/* My Plan */
+
+
+
+/* End My Plan */
